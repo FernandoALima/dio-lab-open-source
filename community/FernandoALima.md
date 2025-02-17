@@ -22,6 +22,7 @@ Meus interesses atuais são IA (Machine Learning e LLMs), Python e Plataforma Se
 * Analítico
 
 ## Contato
-LinkedIn GitHub 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-lima-b79030122/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandoALima)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernandoantonio.lima)
 
-Você também pode entrar em contato comigo por email: fernandoantonio.lima@gmail.com
